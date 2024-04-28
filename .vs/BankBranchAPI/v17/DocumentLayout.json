@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|c:\\users\\ytman\\desktop\\asp .net\\bankbranchapi\\migrations\\20240428085301_adduseraccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|solutionrelative:migrations\\20240428085301_adduseraccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|c:\\users\\ytman\\desktop\\asp .net\\bankbranchapi\\models\\bankcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|solutionrelative:models\\bankcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|c:\\users\\ytman\\desktop\\asp .net\\bankbranchapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|c:\\users\\ytman\\desktop\\asp .net\\bankbranchapi\\controllers\\bankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|solutionrelative:controllers\\bankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|c:\\users\\ytman\\desktop\\asp .net\\bankbranchapi\\models\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|solutionrelative:models\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|c:\\users\\ytman\\desktop\\asp .net\\bankbranchapi\\models\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|solutionrelative:models\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|c:\\users\\ytman\\desktop\\asp .net\\bankbranchapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|c:\\users\\ytman\\desktop\\asp .net\\bankbranchapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|c:\\users\\ytman\\desktop\\asp .net\\bankbranchapi\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|solutionrelative:models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|c:\\users\\ytman\\desktop\\asp .net\\bankbranchapi\\models\\userloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|solutionrelative:models\\userloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|c:\\users\\ytman\\desktop\\asp .net\\bankbranchapi\\models\\tokenclaimsconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|solutionrelative:models\\tokenclaimsconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|c:\\users\\ytman\\desktop\\asp .net\\bankbranchapi\\models\\paging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|solutionrelative:models\\paging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|c:\\users\\ytman\\desktop\\asp .net\\bankbranchapi\\models\\addbranchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|solutionrelative:models\\addbranchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|c:\\users\\ytman\\desktop\\asp .net\\bankbranchapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78081306-E12F-49EC-B7C2-28A4DB610AAC}|BankBranchAPI.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T05:58:30.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240428085301_AddUserAccounts.cs",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Migrations\\20240428085301_AddUserAccounts.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240428085301_AddUserAccounts.cs",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Migrations\\20240428085301_AddUserAccounts.cs",
+              "RelativeToolTip": "Migrations\\20240428085301_AddUserAccounts.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:53:01.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankController.cs",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Controllers\\BankController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BankController.cs",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Controllers\\BankController.cs",
+              "RelativeToolTip": "Controllers\\BankController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAUwKMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:07:29.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Models\\UserRegistration.cs",
+              "RelativeDocumentMoniker": "Models\\UserRegistration.cs",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Models\\UserRegistration.cs",
+              "RelativeToolTip": "Models\\UserRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T09:00:41.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-28T07:44:42.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Models\\TokenService.cs",
+              "RelativeDocumentMoniker": "Models\\TokenService.cs",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Models\\TokenService.cs",
+              "RelativeToolTip": "Models\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:54:26.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserLoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Models\\UserLoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\UserLoginRequest.cs",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Models\\UserLoginRequest.cs",
+              "RelativeToolTip": "Models\\UserLoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:49:51.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwB4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:43:30.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankContext.cs",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Models\\BankContext.cs",
+              "RelativeDocumentMoniker": "Models\\BankContext.cs",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Models\\BankContext.cs",
+              "RelativeToolTip": "Models\\BankContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:51:42.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Paging.cs",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Models\\Paging.cs",
+              "RelativeDocumentMoniker": "Models\\Paging.cs",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Models\\Paging.cs",
+              "RelativeToolTip": "Models\\Paging.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA5wAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T06:22:53.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Models\\UserAccount.cs",
+              "RelativeDocumentMoniker": "Models\\UserAccount.cs",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Models\\UserAccount.cs",
+              "RelativeToolTip": "Models\\UserAccount.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBMAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:47:48.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddBranchRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Models\\AddBranchRequest.cs",
+              "RelativeDocumentMoniker": "Models\\AddBranchRequest.cs",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Models\\AddBranchRequest.cs",
+              "RelativeToolTip": "Models\\AddBranchRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T05:40:36.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T05:35:55.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TokenClaimsConstant.cs",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Models\\TokenClaimsConstant.cs",
+              "RelativeDocumentMoniker": "Models\\TokenClaimsConstant.cs",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BankBranchAPI\\Models\\TokenClaimsConstant.cs",
+              "RelativeToolTip": "Models\\TokenClaimsConstant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:50:23.29Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
